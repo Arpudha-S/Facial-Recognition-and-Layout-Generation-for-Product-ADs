@@ -1,0 +1,70 @@
+{
+  "layout": [
+    {
+      "element_type": "headline",
+      "x": 0.0,
+      "y": 0.19617050750118392,
+      "width": 0.5,
+      "height": 0.14,
+      "content": "MamaEarth Baby Bathing Soap",
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "z_index": 1,
+      "style": null
+    },
+    {
+      "element_type": "discount",
+      "x": 0.78,
+      "y": 0.8083525750733138,
+      "width": 0.22,
+      "height": 0.08,
+      "content": "25% OFF",
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "z_index": 1,
+      "style": null
+    },
+    {
+      "element_type": "price",
+      "x": 0.09446928152248785,
+      "y": 0.91,
+      "width": 0.28,
+      "height": 0.09,
+      "content": "\u20b9186",
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "z_index": 1,
+      "style": null
+    },
+    {
+      "element_type": "CTA",
+      "x": 0.3643118913481212,
+      "y": 0.0,
+      "width": 0.25,
+      "height": 0.1,
+      "content": "Hot Sale",
+      "color": [
+        255,
+        165,
+        0
+      ],
+      "z_index": 1,
+      "style": null
+    }
+  ],
+  "valid": true,
+  "stages": {
+    "content_analysis": "Analyze image for baby_care",
+    "layout_gen": "Generate layout for 612x371 with elements: headline, discount, price, CTA"
+  },
+  "errors": []
+}
